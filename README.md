@@ -20,4 +20,5 @@ These signals were used to estimate variables of the feature vector for each pat
 
 Project Description
 ===================
-For this project, we loaded data from both the training and test data tables used in this study, merged the files together(har.df) , and subsetted the data further focusing only on the 84 variables containing the mean and standard deviation (see Codebook.md for the full variable list). Hadley Wickham's plyr library was used to calculate the mean of the 84 variables by subject id and activity(tidyHar.df).  This tidy table is available as a tab delimited data file called "tidy.txt" as part of this repository.
+
+For this project, we loaded data from both the training and test data tables used in this study, merged the files together (*har.df*) , and subsetted the data further focusing only on the 84 variables containing the mean and standard deviation (see *Codebook.md* for the full variable list). Hadley Wickham's plyr library was used to calculate the mean of the 84 variables by subject id and activity(tidyHar.df).  This tidy table is available as a tab delimited data file called *tidy.txt* as part of this repository.
