@@ -4,6 +4,18 @@
 
 *Please note - in the tidy data set (**tidy.txt**) is comprised of the mean of the following variables.  This is shown in the variable name surrounding by **mean()**.*
 
+**id**
+
+User id of the participant
+
+**activityName**
+
+name of the activity performed
+
+**activityNumber**
+
+code number for the activity in *activityName*
+
 **tBodyAcc-mean()-X**
 
 Mean Body Acceleration along X axis
@@ -339,3 +351,7 @@ angle Y and gravity mean
 **angle(Z,gravityMean)**
 
 angle Z and gravity mean
+
+**source**
+
+Source of observation - a 1 indicates training dataset, a 2 indicates the source is the test dataset
