@@ -1,11 +1,7 @@
 # merge the training and test sets to create one data set
-
 # extract measurements on the mean and standard deviation for each measurement
-
 # add descriptive activity names for each activity in the dataset
-
 # Label the data with descriptive variable names
-
 # Create a second (derivative) data set with the avg of each variable for each
 # activity and subject
 
